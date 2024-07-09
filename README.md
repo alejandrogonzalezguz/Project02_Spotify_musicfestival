@@ -1,2 +1,3 @@
 # Project02_Spotify_musicfestival
 Portfolio Project
+project_inclusion_allrightsreserved
